@@ -31,3 +31,8 @@ const myFunc = function() {
 
 console.log(typeof myFunc) // Output function object
 // the type of every non primitive data type is object
+
+// =================================================================================================
+
+// two types of  memory
+// stack(primitive), heap(non primitive)
