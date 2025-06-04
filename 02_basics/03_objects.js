@@ -1,5 +1,6 @@
 const mySym = Symbol("key1")
 
+// by object literal
 const jsUser = {
     name: "Lakshay", // everything is taken as string on the left hand side
     "Full Name": "Lakshay Gupta",
